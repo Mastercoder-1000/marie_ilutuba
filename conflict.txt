@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kalapanne kallas vaikselt mööda tänavaid, luues peegeldusi linna tuledes. Üksildane jalakäija peatus hetkeks, kuulates tuule vaikset sosinat. Mõned lehed keerlesid õhus, justkui otsides teed koju.gi 
+=======
+Lihapalle kallas vaikselt mööda tänavaid, luues peegeldusi linna tuledes. Üksildane jalakäija peatus hetkeks, kuulates tuule vaikset sosinat. Mõned lehed keerlesid õhus, justkui otsides teed koju.
+>>>>>>> 0ad39ef0a0ef206be5108885396eee2b17b9182e
